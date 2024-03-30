@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using Srp.Violation;
+﻿using Srp.Violation;
 
 Console.WriteLine("SRP Principle - Violation");
 

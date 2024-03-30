@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using LSP.Violation;
+﻿using LSP.Violation;
 
 Console.WriteLine("LCP Principle - Violation");
 
